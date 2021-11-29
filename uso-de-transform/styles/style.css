@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+}
+.transform1 {
+    width: 70px;
+    height: 60px;
+    background-color: rgb(69, 250, 220);
+    transform: rotate(20deg);
+  }
+  
+.transform2 {
+    width: 90px;
+    height: 60px;
+    background-color: rgb(251, 154, 238);
+    transform: skewY(20deg);
+  }
+  
+.transform3 {
+    width: 150px;
+    height: 80px;
+    background-color: rgb(202, 110, 255);
+    transform: scaleY(1.5);
+  }
+
+.transform4 {
+    width: 150px;
+    height: 80px;
+    background-color: rgb(152, 255, 152);
+    transform: scaleY(0.9);
+  }
